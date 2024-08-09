@@ -18,10 +18,10 @@ QuickEats/
 ├── database.py
 ├── graph_plot.py
 ├── data/
-│ ├── records.json
-│ ├── delivery_records.json
-│ ├── menu.json
-│ └── accounts.json
+│   ├── records.json
+│   ├── delivery_records.json
+│   ├── menu.json
+│   └── accounts.json
 ├── fonts.txt
 └── requirements.txt
 ```
