@@ -22,7 +22,7 @@ QuickEats/
 │   ├── delivery_records.json
 │   ├── menu.json
 │   └── accounts.json
-├── fonts.txt
+├── fonts.md
 └── requirements.txt
 ```
 ### Files Overview
@@ -72,7 +72,7 @@ Follow these steps to set up the project on your local machine:
 ### Prerequisites
 
 - **Python 3.10 or above** installed on your system.
-- **Fonts** mentioned in fonts.txt must be installed on your system for better user experience.
+- **Fonts** mentioned in fonts.md must be installed on your system for better user experience.
 - **Internet connection** to access the Google Form for feedback.
 
 ## 🎯 Key Features
