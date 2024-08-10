@@ -84,7 +84,7 @@ Follow these steps to set up the project on your local machine:
 - **📊 Analytics**: Gain insights with revenue distribution graph.
 - **📝 Feedback**: Provide feedback directly via a Microsoft Form.
 - **🗑️ Account Deletion**: Option for users to permanently delete their accounts.
-- **⚠️ Exception Handling**: All the potential exceptions and errors handled seamlessly.
+- **⚠ Exception Handling**: All the potential exceptions and errors handled seamlessly.
 
 ## 📊 Data Management
 
