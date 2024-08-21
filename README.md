@@ -4,7 +4,7 @@ An intermediate level food delivery application, with visually appealing interfa
 
 ## 📜 Overview
 
-**QuickEats** is a user-friendly food delivery application designed to provide servies like food ordering and parcel delivery. The application is built with Python and leverages the following technologies:
+**QuickEats** is a user-friendly food delivery application designed to provide services like food ordering and parcel delivery. The application is built with Python and leverages the following technologies:
 
 - **Tkinter**: Provides the graphical user interface of applicationn.
 - **ttkbootstrap**: Modern version of Tkinter, that enhances the visual appeal of the application with modern, stylish components.
