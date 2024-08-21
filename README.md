@@ -1,6 +1,6 @@
 # QuickEats
 
-Ann intermediate level food delivery application, with visually appealing interface, having services food delivery, parcel delivery etc
+An intermediate level food delivery application, with visually appealing interface, having services food delivery, parcel delivery etc
 
 ## 📜 Overview
 
