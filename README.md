@@ -95,14 +95,5 @@ QuickEats uses **JSON** files as a lightweight, efficient means of data storage:
 - **menu.json**: Contains up-to-date menu information.
 - **accounts.json**: Manages user accounts and profile information.
 
-## 🌟 Future Enhancements
-
-We are committed to further improve QuickEats. Planned features include:
-
-- **Database Integration**: Transition from JSON to a more robust database solution for scalability.
-- **Advanced Analytics**: Enhance admin-facing analytics with detailed insights.
-- **Enhanced Security**: Implement stronger security measures to safeguard user data.
-- **Deployment**: Deploy this application at a startup or small restaurant with its mobile(android) version.
-- **Real Time Implemenation**: Implement application by providing its service in real time.
 
 
